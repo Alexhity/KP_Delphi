@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2023-06-25T14:12:20.049+03:00" lasteditedby="Admin" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Об авторе</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Об авторе</para>
+    </header>
+    <para styleclass="Normal" style="text-indent:54px; line-height:1.50;"></para>
+    <para styleclass="Normal" style="text-indent:54px; line-height:2.23;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Проект был разработан Бородич Александрой Валерьевной.</text></para>
+    <para styleclass="Normal" style="text-indent:54px; line-height:2.23;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Группа ПЗТ-38.</text></para>
+    <para styleclass="Normal" style="text-indent:54px; line-height:2.23;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">УО ГГПК</text></para>
+    <para styleclass="Normal" style="text-indent:54px; line-height:2.23;"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt;">Был разработан с любовью</text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; font-weight:bold; vertical-align:baseline; color:#333333; background-color:#ffffff;">♥ </text></para>
+    <para styleclass="Normal" style="text-indent:54px; line-height:2.23;"><image src="photo_2023-06-21_08-48-36.jpg" scale="37.56%" width="361" height="481" styleclass="Image Caption" style="font-family:&apos;Times New Roman&apos;; font-size:14pt;"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
